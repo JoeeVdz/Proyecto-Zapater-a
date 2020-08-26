@@ -1,2 +1,2 @@
-# Proyecto-Zapater-a
+# Proyecto-Zapateria
 # Repositorio locales y remotos con Git & GitHub.
